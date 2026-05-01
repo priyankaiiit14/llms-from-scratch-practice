@@ -1,0 +1,17 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "matcher": "*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash /Users/pkumari/Documents/Projects/llms-from-scratch/.claude/hooks/suggest-reflect.sh",
+            "statusMessage": "Analyzing session for learnings...",
+            "timeout": 5
+          }
+        ]
+      }
+    ]
+  }
+}
