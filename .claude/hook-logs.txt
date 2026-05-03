@@ -1,0 +1,35 @@
+[2026-04-12 18:43:15] Stop hook executed
+[2026-04-12 18:44:42] Stop hook executed
+[2026-04-12 18:46:05] Stop hook | trigger=no-match | message=Session ended. Did you make any decisions worth remembering? Ask me to save a memory if so.
+[2026-04-12 18:46:38] Stop hook | trigger=no-match | message=Session ended. Did you make any decisions worth remembering? Ask me to save a memory if so.
+[2026-04-12 18:48:56] Stop hook | trigger=strong-match | message=This session involved fixes or discoveries. Did you want to save any decisions? Run /reflect or ask me to save a memory.
+[2026-04-12 18:50:07] Stop hook | trigger=strong-match | message=This session involved fixes or discoveries. Did you want to save any decisions? Run /reflect or ask me to save a memory.
+[2026-04-12 18:52:53] Stop hook | trigger=strong-match | message=This session involved fixes or discoveries. Did you want to save any decisions? Run /reflect or ask me to save a memory.
+[2026-04-12 18:56:38] Stop hook | trigger=strong-match | decision=block
+[2026-04-12 18:56:44] Stop hook | trigger=strong-match | decision=block
+[2026-04-12 18:57:00] Stop hook | trigger=strong-match | decision=block
+[2026-04-12 18:58:56] Stop hook | trigger=strong-match | decision=block
+[2026-04-12 18:59:46] Stop hook | already-prompted this session, skipping
+[2026-04-12 19:17:19] Stop hook | already-prompted this session, skipping
+[2026-05-01 14:06:18] Stop hook | trigger=weak-match | decision=block
+[2026-05-01 14:12:10] Stop hook | trigger=weak-match | decision=block
+[2026-05-01 19:31:41] Stop hook | trigger=weak-match | decision=block
+[2026-05-01 19:35:34] Stop hook | trigger=weak-match | decision=block
+[2026-05-01 19:50:33] Stop hook | already-prompted this session, skipping
+[2026-05-01 19:52:51] Stop hook | already-prompted this session, skipping
+[2026-05-01 20:02:52] Stop hook | already-prompted this session, skipping
+[2026-05-01 20:05:02] Stop hook | already-prompted this session, skipping
+[2026-05-01 20:09:43] Stop hook | already-prompted this session, skipping
+[2026-05-01 20:12:24] Stop hook | already-prompted this session, skipping
+[2026-05-01 20:18:45] Stop hook | already-prompted this session, skipping
+[2026-05-01 20:19:38] Stop hook | trigger=weak-match | decision=block
+[2026-05-01 21:59:00] Stop hook | trigger=weak-match | decision=block
+[2026-05-02 13:07:10] Stop hook | trigger=weak-match | decision=block
+[2026-05-02 13:20:56] Stop hook | trigger=weak-match | decision=block
+[2026-05-02 13:26:09] Stop hook | trigger=weak-match | decision=block
+[2026-05-02 13:27:38] Stop hook | trigger=weak-match | decision=block
+[2026-05-02 13:28:29] Stop hook | trigger=weak-match | decision=block
+[2026-05-02 13:28:55] Stop hook | trigger=weak-match | decision=block
+[2026-05-02 13:33:02] Stop hook | trigger=weak-match | decision=block
+[2026-05-02 13:34:50] Stop hook | trigger=weak-match | decision=block
+[2026-05-02 17:02:56] Stop hook | trigger=strong-match | decision=block

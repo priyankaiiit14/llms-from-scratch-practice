@@ -1,4 +1,22 @@
 {
+  "permissions": {
+    "allow": [
+      "Bash(git log:*)",
+      "Bash(git diff:*)",
+      "Bash(git status:*)",
+      "Bash(find . *)",
+      "Bash(uv run *)",
+      "Bash(jupyter nbconvert *)",
+      "Bash(python *)",
+      "Bash(wc -l *)",
+      "Bash(grep *)"
+    ],
+    "deny": [
+      "Read(**/__pycache__/**)",
+      "Read(**/.venv/**)",
+      "Read(/**/*.egg-info/**)"
+    ]
+  },
   "hooks": {
     "Stop": [
       {
